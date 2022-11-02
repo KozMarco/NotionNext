@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'Ke', // 作者
   BIO: 'Someon who writes', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
+  LINK: 'https://keblog.vercel.app', // 网站地址
   KEYWORDS: 'Blog, Self Writing,Feminism,Open Source,Solar Punk', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || 'ccf21ac6282647b09e78cd9598081b3e', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
